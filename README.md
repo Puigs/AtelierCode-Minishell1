@@ -20,9 +20,9 @@ Vous avez trois fonctions à réaliser.
 
 Créer une fonction qui va créer votre liste chainée contenant les variables d'environnement.
 
-Créer une fonction qui permet d'ajouter une node à votre liste chainé.
+Créer une fonction qui permet d'ajouter une node à votre liste chainé (setenv).
 
-Créer une fonction qui permet d'effacer une variable de votre liste chainée. (La variable pouvant être au milieu de votre liste)
+Créer une fonction qui permet d'effacer une variable de votre liste chainée. (La variable pouvant être au milieu de votre liste) (unsetenv).
 
 Vous devez me rendre ces trois fonctions au lien suivant :
 https://forms.office.com/Pages/ResponsePage.aspx?id=yrQckGK4KUCTBuXND22fhrMExM_Lt6JMr0S1SIiPSRNUNEhMRkhZUlE5QkFWM1lVQ0ExVTVOVEpRWi4u
